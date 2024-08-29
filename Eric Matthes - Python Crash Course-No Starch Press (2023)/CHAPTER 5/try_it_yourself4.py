@@ -6,6 +6,8 @@ for username in usernames:
         print(f"Thank you for login {username}")
 
 usernames2 = []
+inp = input("Enter the username")
+usernames2.append(inp)
 if usernames2:
     for username in usernames2:
         if username == "Admin":
