@@ -1,12 +1,22 @@
 squares = [values ** 2 for values in range(1,11)]
 print(squares)
 
+cubes= [values ** 3 for values in range(1,11)]
+print(cubes)
+
 numbers = [number for number in range(1,21)]
 print(numbers)
 
 millions = []
 for n in range(1,1000001):
     millions.append(n)
+
+lakhs = [ numbers for numbers in range(1,100001)]
+lakhs
+
+print(min(lakhs))
+print(max(lakhs))
+
 # print(millions)
 # for n in millions:
 #     print(n)
