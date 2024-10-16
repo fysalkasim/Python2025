@@ -46,9 +46,25 @@ thistring = "python is a programming language"
 # print(thistring[::2])
 # print(thistring[::3])
 # print(thistring[-1::-1])
-address = "John Doe\n\t123 Main St\n\tCityville, ST 12345"
-print(address)
 
+# thistring = "python is a programming language"
 
+# thistring = "python is\na programming language"
+# print(thistring)
 
-
+# user_profile = "Name\n\tAddress,\n\tcity\tDistric\n\tState\n\tCountry\tPIN:	xxxxxx"
+# print(user_profile)
+# print("Name\n\tAddress,\n\tcity\tDistric\n\tState\n\tCountry\tPIN:	xxxxxx")
+# thistring = "python is a programming l\banguage"
+# print(thistring)
+# thistring = "python is a pro\bgramming l\banguage"
+# print(thistring)
+# favorite_quote = '"Do or Die"'
+# print(favorite_quote)
+# question = '"Doesn\'t he ran?"'
+# print(question)
+# del question[0]
+# place = "Kaloor"
+# print("o" in place)
+# user_profile = r"Name\n\tAddress,\n\tcity\tDistric\n\tState\n\tCountry\tPIN: xxxxxx"
+# print(user_profile)
