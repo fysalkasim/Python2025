@@ -1,1 +1,5 @@
-Hi welcome to python Python has an easy syntax and user-friendly interaction Python has an easy syntax and user-friendly interaction
+python
+java
+c
+cpp
+javascript Python has an easy syntax and user-friendly interaction
