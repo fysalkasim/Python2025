@@ -45,4 +45,10 @@ thistring = "python is a programming language"
 # print(thistring[::1])
 # print(thistring[::2])
 # print(thistring[::3])
-print(thistring[-1::-1])
+# print(thistring[-1::-1])
+address = "John Doe\n\t123 Main St\n\tCityville, ST 12345"
+print(address)
+
+
+
+
