@@ -100,3 +100,12 @@
 
 # string = "$Hello World$" 
 # print(string.lstrip("$"))
+
+
+# class Animal:
+#     def __init__(self,age):
+#         self.age = age
+
+# s = Animal(212)
+# print(s.age)
+
