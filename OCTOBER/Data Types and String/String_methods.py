@@ -92,6 +92,11 @@
 
 # uppercase =  87032845L
 # print(uppercase)
-filename = "notes.txt"
-print(filename.removesuffix(".txt"))
+# filename = ".txtnotes.txt"
+# print(filename.removesuffix(".txt"))
+# print(filename.replace(".txt",''))
+# print(filename.rstrip(".txt"))
+# print(filename.strip(".txnoe"))
 
+# string = "$Hello World$" 
+# print(string.lstrip("$"))
