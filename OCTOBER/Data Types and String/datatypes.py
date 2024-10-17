@@ -68,3 +68,19 @@ thistring = "python is a programming language"
 # print("o" in place)
 # user_profile = r"Name\n\tAddress,\n\tcity\tDistric\n\tState\n\tCountry\tPIN: xxxxxx"
 # print(user_profile)
+# fullname = "Jhon Davis"
+# print("Hello welcome to python", fullname)
+# print(fullname,"Hello welcome to python")
+# print(f"Hello {fullname}welcome to python")
+# place = "paris"
+# print(f"Have you ever been to {place}? It's an amazing place!")
+# thistring = "Welcome to Data Analytics"
+# print(thistring.title())
+# print(thistring)
+# thisstring = "hi all this is going to be fun"
+# print(thisstring.title())
+# print(thisstring.capitalize())
+# print(thisstring.upper())
+# thisstring = thisstring.upper()
+# print(thisstring)
+# print(thisstring.lower())
