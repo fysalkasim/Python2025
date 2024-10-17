@@ -8,3 +8,76 @@
 # thisstring = thisstring.upper()
 # print(thisstring)
 # print(thisstring.lower())
+# thisstring = "hi we are going to use rstrip() "
+# print(len(thisstring.rstrip()))  #contains 31 element
+# print(len(thisstring)) #contains 32 element
+
+# thisstring = "   hi we are going to use lstrip()"
+# print(len(thisstring.lstrip())) #contains 31 element
+# print(len(thisstring)) #contains 34 element
+
+# thisstring = "   Hi all  we are using strip() function  "
+# print(len(thisstring.strip())) #contains 37 element
+# print(len(thisstring)) #contains 42 element
+# thisstring = "We are using replace method"
+# print(thisstring)
+# print(thisstring.replace("using","used"))
+# print(thisstring)   #no change in orginal string
+
+# names = "SALU SREEKUTTY SREELEKSHMI REETHU"
+# print(names.split(" "))  #printing each names using split method using whitspace as separtor
+
+# thisstring = "Use of count index and find"
+# print(thisstring.find("U"))
+# print(thisstring.index("U"))
+# print(thisstring.count("U"))
+
+# thistring = "We are using join method in string"
+# print(thistring.join("12345"))
+
+# thisstring = "Hi all we are going to use startswith"
+# print(thisstring.startswith("Hi"))
+
+# thisstring = "Hi all we are going to use endswith"
+# print(thisstring.endswith("Hi"))
+
+# print(thisstring.endswith("th"))
+
+# thisstring = "Hi all we are going to use isalpha"
+# print(thisstring.isalpha())
+
+# thisstring = "Alphabetsonly"
+# print(thisstring.isalpha())
+
+# thisstring = "Hi all we are going to use isdigit"  
+# print(thisstring.isdigit())   #OUTPUT WILL BE FALSE
+
+# thisstring = "Only Digits 121326"
+# print(thisstring.isdigit())     #OUTPUT WILL BE FALSE
+
+# thisstring = "1232354"
+# print(thisstring.isdigit())     #OUTPUT WILL BE TRUE
+
+# thisstring = "Hi all we are going to use isalnum"  
+# print(thisstring.isalnum())   #OUTPUT WILL BE FALSE
+
+
+# thisstring = "Hi all we are going to use isalnum121212"  
+# print(thisstring.isalnum())   #OUTPUT WILL BE FALSE
+
+
+# thisstring = "Alphabetsand1213254"  
+# print(thisstring.isalnum())   #OUTPUT WILL BE TRUE
+
+
+# thisstring = "1213254"  
+# print(thisstring.isalnum())   #OUTPUT WILL BE TRUE
+
+# thisstring = "profilepicture.jpg"
+# print(thisstring.removesuffix(".jpg"))
+
+# thisstring = "profilepicture.jpg"
+# print(thisstring.removeprefix("profilepicture"))  #output will be .jpg (removes the given substring)
+
+# thisstring = "onlyalphabets"
+# print(thisstring.isalpha())
