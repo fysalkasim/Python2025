@@ -81,3 +81,17 @@
 
 # thisstring = "onlyalphabets"
 # print(thisstring.isalpha())
+
+# messy_string = "!!!Hello World!!!"
+# cleaned_string = messy_string.strip("!")
+# print(cleaned_string)
+
+
+
+
+
+# uppercase =  87032845L
+# print(uppercase)
+filename = "notes.txt"
+print(filename.removesuffix(".txt"))
+
