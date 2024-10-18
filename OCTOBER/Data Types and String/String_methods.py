@@ -109,3 +109,27 @@
 # s = Animal(212)
 # print(s.age)
 
+
+class Animal:
+    def __init__(self,age):
+        self.age = age
+        self.kingdom = "Animalia"
+    def speak(self):
+        print("Animal Speaking")
+    def jump(self):
+        print("Jumping high")
+#The child class Dog inherits the base class Animal
+class Dog(Animal):
+    def bark(self):
+        print(f"dog barking and is from kingdom {self.kingdom}")
+#The child class Dogchild inherits another child class Dog
+class DogChild(Dog):
+    def eat(self):
+        print(f"Eating bread...and has an age of {self.age}")
+    def jump(self):
+        print("Jumping lower")   
+d = DogChild(22)
+d.bark()
+d.speak()
+d.eat()
+d.jump()
