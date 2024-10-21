@@ -105,4 +105,11 @@
 # b = 7
 # print(a is b)
 
+# value = 5 * 2 ** 3 // 3 % 4
+# print(value)
 
+# print("5" in "1234")
+
+# x = "123" 
+# y = x[::-1] 
+# print(x is not y)
