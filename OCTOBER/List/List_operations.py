@@ -25,8 +25,18 @@ print(course)
 del names[-1]
 print(names)
 
-numbers = [1,2,3,4,5,6,1,2,3,4,5,6,1,2,3,4,5,6]
-print(sorted(numbers))
+
 
 names = ["Reethu","Sreelekshmi","Sreekutty","Salu"]
 print(sorted(names))
+numbers = [1,2,3,4,5,6,1,2,3,4,5,6,1,2,3,4,5,6]
+
+print(numbers)
+print(len(numbers))
+
+numbers[2:7] = [10,11,21]
+print(numbers)
+print(len(numbers))
+
+numbers.append(5)
+print(numbers)
