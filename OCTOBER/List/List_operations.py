@@ -68,33 +68,42 @@
 # player_names.insert(1,"Sanju samson")
 # print(player_names)
 
-basket = ["apple", "banana", "cherry", "orange", "kiwi", "mango"]
-new_fruits = ["Jack fruit", "watermelon"]
+# basket = ["apple", "banana", "cherry", "orange", "kiwi", "mango"]
+# new_fruits = ["Jack fruit", "watermelon"]
 
-basket.extend(new_fruits)
-print(basket)
+# basket.extend(new_fruits)
+# print(basket)
 
-letters = "ABCDEFGHIJKL"
+# letters = "ABCDEFGHIJKL"
 
-new_fruits.extend(letters)
+# new_fruits.extend(letters)
 
-print(new_fruits)
+# print(new_fruits)
 
-basket = ["apple", "banana", "cherry", "orange", "kiwi", "mango"]
-print(basket)
-basket.remove("kiwi")
-print(basket)
+# basket = ["apple", "banana", "cherry", "orange", "kiwi", "mango"]
+# print(basket)
+# basket.remove("kiwi")
+# print(basket)
 
-basket = ["apple", "banana", "cherry", "orange", "kiwi", "mango"]
-print(basket)
-#remove the mango from basket
+# basket = ["apple", "banana", "cherry", "orange", "kiwi", "mango"]
+# print(basket)
+# #remove the mango from basket
 
-basket.pop()
-print(basket)
+# basket.pop()
+# print(basket)
 
-list1 = [1,2,3,4]
-list2 = [1,2,3,4]
+# list1 = [1,2,3,4]
+# list2 = [1,2,3,4]
 
-list1.clear(5)
-print(list1)
+# list1.clear(5)
+# print(list1)
+
+
+
+# print("Hello world")
+# print("welcome to python programming")
+
+
+
+
 
