@@ -92,3 +92,9 @@ print(basket)
 basket.pop()
 print(basket)
 
+list1 = [1,2,3,4]
+list2 = [1,2,3,4]
+
+list1.clear(5)
+print(list1)
+
