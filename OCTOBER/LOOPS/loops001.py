@@ -62,5 +62,57 @@
 #     for j in range(1,limit+1):
 #         print("*",end="")
 #     print()
-print("hello")
+# print("hello")
+# string2 = "python"
+# result= ""  #result = "nohtyp"
+# for i in string2:
+#     result = i + result
+# print(result)
+#else with while
+# i=0
+# while i<25:
+#     if i%2==0:
+#         i = i+1
+#         continue
+#     print(i)
+#     i=i+1
+# else:
+#     print(" no breaks")
+# print("outside loop")
+# i = 0
+# while i < 30:
+#     if i == 10:
+#         i =i+ 1
+#         continue
+#     print('Current number :', i)
+#     i += 1
 
+# digit = 66
+# while True:
+#     number = int(input("Guess the number between 1 to 100:"))
+#     if number != 66:
+#         print("Wrong guess")
+#     else:
+#         print("Guessed the correct number!!")
+#         break
+
+# write a program login user name password 3 attempt 
+
+# userid = "Hello"
+# password = "Hello@123"
+# i = 0
+# while True:
+#     user_id = input("Enter the user id:")
+#     pass_word = input("Enter the password:")
+#     i += 1
+#     if i == 3:
+#         break
+#     if user_id == userid and pass_word == password:
+#         print("Welcome!")
+#     else:
+#         print("Wrong input!")
+
+# num = int(input("Enter the number"))
+# while num > 0:
+#     print(num)
+#     num -= 1
