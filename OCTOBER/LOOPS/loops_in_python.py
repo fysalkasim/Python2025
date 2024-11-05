@@ -52,6 +52,90 @@
 # print("Sum =",sum)
 
 numbers = [1, 2, 5, 6, 2, 4, 8, 3, 1, 5, 9, 7]
-print(sum(numbers))
+# print(sum(numbers))
+# #
+name = "FYSAL"
+# print(name)
+# for number in numbers:
+#     print(number)
+
+# foods = ["chaya", "Meals","Biriyani"]
+# for i in foods:
+#     print(i)
+# print("Welcome to our hotel sir")
+# foods = []
+# for i in range(3):
+#     food = input("Please order sir")
+#     foods.append(food)
+
+# for i in foods:
+#     print(f"Your {i} is getting ready sir")
+
+# print("Thank you for ordering")
+
+# print("What do you want to eat:\nMenu:")
+# food=["Tea","coffee","snacks"]
+# for i in food:
+#     print(i)
+
+# orders = []
+# for i in range(3):
+#     order = input("What do you want sir: ")
+#     orders.append(order)
+
+# print(orders)
+
+# *
+# **
+# ***
+# ****
+
+# for i in range(10):
+#     print()
+#     for j in range(i):
+#         print("*",end='')
+# for i in range(1,11):
+#     print()
+#     for j in range(i):
+#         print("*",end='')
+
+# print("apple","Banana",sep="",end='')
+# print("Jack fruit",end="")
+
+# fruits = ["Apple","Orange"]
+
+
+# # print(len(fruits))
+# for i  in range(len(fruits)):
+#     for j in range(var2):
+#         print(fruits[i])
+
+# numbers= [1,2,5,6,2,4,8,3,1,5,9,7,10]
+# for i in numbers :
+#     print(i,end=" ")
+#     j= numbers.index(i)
+#     j+=1
+#     if j < len(numbers) :
+#         for j in numbers :
+#             if i >= j :
+#                 temp = i
+#             else :
+#                 temp = j   
+# print("\nLargest number = ",temp)
+
+# numbers=[1,2,5,6,2,4,8,3,1,5,9,7]
+# print(max(numbers))
+# # max_num=9
+# # for i in numbers:
+# #     if(i>max_num):
+# #         max_num=i
+# # print("\n maximum number is:",max_num)
+# 
+
+# create a list of fruits from users (it can be 1,2,3, or etc any number of elements),
+# number of repeatition from user input
+# print(each fruit as insructed by the user)
+
+
 
 
