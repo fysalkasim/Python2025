@@ -42,3 +42,58 @@ sdbfvnsbdvfs
 # stre = "language"
 
 # print(stre[1:3])
+
+
+# num = 3 + 4j
+# print(num.real)
+# print(num.imag)
+
+# cd = None
+
+# print(type(cd))
+
+# x = 0b10100
+
+# print(type(x))
+
+# x = 5
+# y = 3
+# z = x == y
+# print(type(z))
+
+# x += 1
+# means x = x+1
+# y *=2
+# means y = y*2
+
+# print(not(not(False) or not(True and True)))
+
+
+# st1="hello"
+# st2="hello"
+
+list1 = [5]
+list2 = [5]
+print(list1 is list2)
+# list1.append(6)
+# print(list1)
+
+# print(list2)
+# print(st1 is st2)  # checking two objects are same
+# print(st1 == st2)  # Checking values of two objects
+
+# print(list1 is list2)
+# print(list1 == list2)
+
+#step1
+print()
+#step2
+# """First line of the comment
+# Second line of the comment
+# Third line of the commentsn
+# sdnfbsnkdfslkdf
+# sdfnsmdnfsd
+# sdjfksdjfkjdf"""
+
+# print()
+# '''Used to print a string or variables or objects'''
