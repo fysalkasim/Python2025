@@ -74,11 +74,31 @@
 # var3 = "Devansh"
 
 # print(f"print {var1*3},{var1*var2},{var3[0]}")
-numbers = [1,2,3,4,5]
+# numbers = [1,2,3,4,5]
 
-for num in numbers:
-    a = numbers.pop()
-    for j in numbers:
-        if a%j != 0:
-            print(a)
-                   
+# for num in numbers:
+#     a = numbers.pop()
+#     for j in numbers:
+#         if a%j != 0:
+#             print(a)
+# language = "ppppyt sd12121"
+# # print(language.count('p',4))
+# # print(language.find("z"))
+# print(language.isalnum())
+# print(language.isalpha())
+
+# spaces = " sdad  "
+# print(spaces.isspace())
+# print(language.title())
+
+# str =  "  python  "
+# # Calling function
+# str2 = str.lstrip()
+# print(str2)
+
+# str = "Java is a programming language"
+# # Calling function
+# str2 = str.split("a")
+# # Displaying result
+# print(str)
+# print(str2)
