@@ -102,3 +102,69 @@
 # # Displaying result
 # print(str)
 # print(str2)
+
+
+# 1-50 3,5 divide numbers
+# for i in range(1,50):
+#     if i%3 == 0 and i%5==0 :
+#         print(i)
+
+# i = 0
+# while i < 30:
+#     if i == 10:
+#         i += 1
+#         continue
+#     print('Current number :', i)
+#     i += 1
+# n = 10
+
+# if n > 10:
+#     pass
+
+# print('Hello')
+
+
+# py = "python"
+# lv = list(py)
+
+# del lv[0]
+# print(lv)
+
+# thislist = ["apple", "banana", "cherry"]
+# for x in thislist:
+#   for j in x:
+#     print(j)
+
+
+thislist = [["apple", "kiwi", "cherry"],["Mango","banana", "cherry"]]
+# for x in thislist:
+#   for j in x:
+#     print(j)
+
+print(thislist[1][2])
+
+
+
+# thislist = ["apple", "banana", "cherry"]
+# for i in range(3):
+#   print(thislist[i])
+
+
+# print(list(range((len(str(input()))))))
+
+
+thislist = [9,81,23,1,4,7,7]
+thislist.sort()
+print(thislist)
+
+thislist.sort(reverse=True)
+print(thislist)
+
+# thislist.sort()
+# print(thislist)
+
+print(sorted(thislist,reverse=True))
+
+thislist = ["banana", "orange", "kiwi", "cherry"]
+thislist.sort()
+print(thislist)
