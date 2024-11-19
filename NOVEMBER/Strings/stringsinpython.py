@@ -136,35 +136,138 @@
 #     print(j)
 
 
-thislist = [["apple", "kiwi", "cherry"],["Mango","banana", "cherry"]]
-# for x in thislist:
-#   for j in x:
-#     print(j)
+# thislist = [["apple", "kiwi", "cherry"],["Mango","banana", "cherry"]]
+# # for x in thislist:
+# #   for j in x:
+# #     print(j)
 
-print(thislist[1][2])
-
-
-
-# thislist = ["apple", "banana", "cherry"]
-# for i in range(3):
-#   print(thislist[i])
+# print(thislist[1][2])
 
 
-# print(list(range((len(str(input()))))))
+
+# # thislist = ["apple", "banana", "cherry"]
+# # for i in range(3):
+# #   print(thislist[i])
 
 
-thislist = [9,81,23,1,4,7,7]
-thislist.sort()
-print(thislist)
+# # print(list(range((len(str(input()))))))
 
-thislist.sort(reverse=True)
-print(thislist)
 
+# thislist = [9,81,23,1,4,7,7]
 # thislist.sort()
 # print(thislist)
 
-print(sorted(thislist,reverse=True))
+# thislist.sort(reverse=True)
+# print(thislist)
 
-thislist = ["banana", "orange", "kiwi", "cherry"]
-thislist.sort()
-print(thislist)
+# # thislist.sort()
+# # print(thislist)
+
+# print(sorted(thislist,reverse=True))
+
+# thislist = ["banana", "orange", "kiwi", "cherry"]
+# thislist.sort()
+# print(thislist)
+
+
+
+
+
+
+# string1 = """738sjdfhk 
+# \asvdjhasbdjkas
+# asdkjhaskd
+# skdkjbfsmndf
+# sdjbfksf   sfsd%$Q^#%"""
+
+# print(type(string1))
+
+
+
+
+
+
+# print(language[::-1])  
+#  #start index inclusive and stop index exclusive
+
+# language[0] = "C"     #string is an immutable datatype
+
+# language = "Cython"
+
+# print(language)
+
+# str2 = "python"
+# del str2
+
+# print(str2)
+
+# language = 3
+# ide = 2
+
+# print(language*ide)
+
+
+# str2 = "python"
+
+# if "y" in str2:
+#     print("y in the str2")
+
+
+# str = "They said, \"Hello what's going on?\""
+# print(str)
+
+# print("Python1 \
+# Python2 \
+# Python3")
+
+# print(python"Hello\nWorld")
+
+
+# print("Python\nPrograming\tisfun\n")
+
+
+# var1 = 10
+# var2 = 1.290
+# var3 = "Devansh"
+# print("Integer: % Float:%f  String:%s" % (var1,var2,var3))
+
+# count1 = "python"
+# print(count1)
+# print(f"{var1} is an integer here {var2} is float number ,{var3} is a string")
+
+# str = "Hello python"
+# str2 = str.count('o',7,9)
+# # Displaying result
+# print("occurences:", str2)
+
+# print("data".count())
+
+
+# language = "Python"
+
+# print(language.find("n"))
+# print(language.index("n"))
+# str = "Java"
+# str2 = "C#"
+# # Calling function
+# str3 = "{} and {} both are programming languages".format(str2,str)
+# # Displaying result
+# print(str3)
+
+
+# string = "asbahdfjsd nsdfvkjhsmd"
+
+# print(string)
+
+# str2 =  "file.txtt"
+# print(len(str2))
+# print(str2.rstrip("t"))
+# print(len(str2))
+# print(str2)
+# print(str2.rstrip())
+# print(len(str2))
+
+# str = "Java is a programming language"
+# # Calling function
+# str2 = str.replace("Java","C")
+# print(str2)
