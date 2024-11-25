@@ -17,3 +17,25 @@
 
 
 
+# n = "Yadu"
+# name = "Abhijith"
+# nAme = "Sayand"
+# print(name)
+
+# year = 2024
+# yr = 2024
+# y = 2024
+
+# greeting = "Hello, Python!" 
+# print(greting)
+
+# a = 5 + 3.14j
+
+# print(a.imag)
+# print(a.real,a.imag)
+# x = 5
+# x //= 3
+# print(x)
+# country = "is"
+# var =  "is"
+# print(var is country)
